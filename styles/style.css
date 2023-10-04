@@ -1,0 +1,41 @@
+body{
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+nav{
+    text-align: center;
+}
+
+li{
+    margin: 10px;
+    display: inline;
+    color: black;
+}
+
+section{
+    padding: 50px;
+    border: 2px solid black;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding:20px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding:20px;
+
+}
+
+div{
+    border:solid;
+    margin: 20px;
+    text-align: justify;
+    padding:20px;
+}
